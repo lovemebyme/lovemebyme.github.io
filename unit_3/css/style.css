@@ -1,0 +1,52 @@
+body {
+	text-align:center;
+	background-image: url("images/geo.jpg");
+	background-color: #cccccc;
+
+}
+
+h1{
+	font-weight: 500;
+	font-family:Verdana, Geneva, sans-serif;
+	text-decoration: underline;
+	text-transform: uppercase;
+	
+	}
+
+h2{
+	font-family:Verdana, Geneva, sans-serif;
+	text-transform: uppercase;
+	}
+
+h3{font-family:Verdana, Geneva, sans-serif;
+front-weight: 100;
+text-transform: uppercase;
+}
+
+p{
+	font-family:Verdana, Geneva, sans-serif;
+	color: red;
+	
+	}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ 
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+   
+}
+
+
+
+
+
+
