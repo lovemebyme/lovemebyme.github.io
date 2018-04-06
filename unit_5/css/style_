@@ -1,0 +1,12 @@
+header, h1{
+	background-color: ;
+	text-align:;
+	font-size:;
+	border-style:solid;
+	border-width: 3px;
+	margin: 0.025em;
+	padding: 0.25em;
+
+
+
+}
